@@ -1,3 +1,5 @@
 {
+  "productName": "My-Maven-Product",
+  "projectName": "My-Custom-Maven-Project"
   "repoConfigMode": "createOnboardingPR"
 }
