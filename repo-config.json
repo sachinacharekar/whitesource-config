@@ -1,4 +1,6 @@
 {
+  "productName": "Sachin-Platform",
+  "projectName": "{{repo}}-security-scan",
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
