@@ -1,9 +1,0 @@
-{
-	"migrationMode": {
-		"changeType": "inheritance",
-		"openPR": true
-	},
-	"includeRepos": {
-		["repo1","repo2"]
-	}
-}
